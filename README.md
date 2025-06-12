@@ -1,4 +1,4 @@
-# RickAndMorty-iOS 🛸
+# RickAndMortyApp 🛸
 
 Aplicativo iOS utilizando a API pública de Rick and Morty. Desenvolvido com Clean Architecture e MVVM, incluindo testes unitários e integração.
 
