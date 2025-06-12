@@ -30,7 +30,7 @@ Aplicativo iOS utilizando a API pública de Rick and Morty. Desenvolvido com Cle
 
 1. Clone o projeto:
    ```bash
-   git clone https://github.com/gbe-rs/RickAndMorty-iOS.git
+   git clone https://github.com/gbe-rs/RickAndMortyApp.git
 
 2.	Rode pod install
 3.	Abra o .xcworkspace no Xcode
